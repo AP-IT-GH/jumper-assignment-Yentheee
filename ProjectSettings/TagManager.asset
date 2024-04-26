@@ -6,6 +6,7 @@ TagManager:
   tags:
   - obstacle
   - ColliderWall
+  - endwall
   layers:
   - Default
   - TransparentFX
